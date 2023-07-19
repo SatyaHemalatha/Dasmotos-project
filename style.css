@@ -1,0 +1,57 @@
+h1
+{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("hacksaw.webp");
+    text-align: center;
+}
+
+#brushes
+{
+   font-family: Helvetica;
+   font-size: 32px;
+   font-weight: bold;
+   color: white;
+   background-color: mediumspringgreen;
+}
+
+strong, brushes
+{
+  font-family: Helvetica;
+   font-weight: bold;
+    color: blue;
+}
+
+#frames
+{
+ font-family: Helvetica;
+ font-size: 32px;
+ font-weight: bold;
+ color: white;
+ background-color: lightcoral;
+}
+
+strong, frames
+{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#paint
+{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;   
+}
+
+strong, paint
+{
+    font-family: Helvetica;
+    font-weight: bold;
+     color: blue;
+}
